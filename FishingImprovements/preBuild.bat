@@ -1,0 +1,2 @@
+if not exist "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\FishingImprovements" mkdir "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\FishingImprovements"
+del /q "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\FishingImprovements\FishingImprovements.dll"
